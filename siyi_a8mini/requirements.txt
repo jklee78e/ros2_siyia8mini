@@ -1,0 +1,7 @@
+rclpy>=2.0.0
+opencv-python>=4.5.5
+numpy>=1.21
+pytest>=7.0
+cv_bridge; platform_system == 'Linux'
+imutils>=0.5.4
+ffmpeg-python>=0.2.0

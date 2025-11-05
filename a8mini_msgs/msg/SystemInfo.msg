@@ -1,0 +1,5 @@
+string camera_fw_version
+string gimbal_fw_version
+string hardware_id
+uint8 motion_mode
+uint8 mounting_dir

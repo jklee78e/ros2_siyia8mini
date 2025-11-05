@@ -1,0 +1,49 @@
+# Byte-compiled / build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Colcon / ROS2 build artifacts
+build/
+install/
+log/
+
+# ROS bags and db
+*.bag
+*.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Testing
+.coverage
+.pytest_cache/
+htmlcov/
+
+# C extensions
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Misc
+*.log
