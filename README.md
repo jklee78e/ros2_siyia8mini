@@ -225,4 +225,4 @@ Open issues and PRs. Run tests and keep changes small. Add or update images in `
 
 ## License / 라이선스
 
-MIT (include a `LICENSE` file at repo root)
+MIT 
